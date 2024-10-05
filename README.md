@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/react-native-template.git
+git clone https://github.com/ViniciosLugli/react-native-template.git
 ```
 
 Navigate to the project directory:
